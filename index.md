@@ -1,3 +1,3 @@
-## My generic title
+# Title
 
 my generic content
