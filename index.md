@@ -11,3 +11,5 @@ Tux is a penguin character and the official brand character of the Linux kernel.
 > I am just a mascot
 > I can not talk
 not by Tux
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/200px-Tux.svg.png"/>
