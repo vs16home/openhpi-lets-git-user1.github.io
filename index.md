@@ -1,3 +1,8 @@
-# Alad
+# Tux
 
-Alad V was a member of the Corpus Board of Directors and the head of Grineer Relations. Originally the creator of the ambitious Zanuka Project, an initiative to create advanced robotics by using Warframe components, its eventual failure saw him removed from the Board of Directors.
+Tux is a penguin character and the official brand character of the Linux kernel. Originally created as an entry to a Linux logo competition, Tux is the most commonly used icon for Linux. The character is used in many other Linux programs and as a general symbol of Linux.
+
+## Traits
+* the concept of the Linux brand character being a penguin came from Linus Torvalds  
+* Tux was created by Larry Ewing  
+* Tux was originally designed as a submission for a Linux logo contest
