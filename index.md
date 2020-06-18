@@ -5,3 +5,4 @@ Tux is a penguin character and the official brand character of the Linux kernel.
 ## Traits
 * the concept of the Linux brand character being a penguin came from Linus Torvalds  
 * Tux was created by Larry Ewing  
+* Tux was originally designed as a submission for a Linux logo contest
